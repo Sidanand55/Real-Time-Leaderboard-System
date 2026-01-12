@@ -3,7 +3,6 @@
 ## Overview
 This project implements a real-time leaderboard system where users can register, log in, and submit scores for various games or activities. The system uses **Redis sorted sets** for efficient storage, real-time updates, and querying of leaderboard data. Redis is also used as a cache for quick transformations between ids and names. Users can view global leaderboards, their rankings, and generate reports on top players. 
 
-This is a solution to the roadmap.sh project leadboard: https://roadmap.sh/projects/realtime-leaderboard-system
 
 ---
 
